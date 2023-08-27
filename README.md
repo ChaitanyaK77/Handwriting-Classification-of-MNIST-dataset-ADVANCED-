@@ -3,7 +3,7 @@ Welcome to the MNIST Handwritten Digit Classification project! In this endeavor,
 
 Within this repository, you'll discover an array of code files and Jupyter notebooks designed to take you on a guided tour through our journey. From meticulous data preprocessing strategies to intricate model training sessions, and culminating in thorough evaluation methodologies, each notebook presents a distinct chapter in our narrative. The MNIST dataset, curated by the experts at http://yann.lecun.com/exdb/mnist/, serves as a benchmark in the field of digit recognition, enabling us to benchmark our models' performance against a well-established standard. We invite you to dive into our Jupyter notebooks, unravel the intricacies of digit classification, and embark on a learning adventure at the intersection of machine intelligence and human expression.
 
-Feel free to adjust and tailor this expanded description to better reflect your project's unique aspects and goals.
+
 
 
 
